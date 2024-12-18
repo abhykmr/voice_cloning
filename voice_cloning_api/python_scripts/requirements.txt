@@ -1,0 +1,6 @@
+numpy
+librosa
+scipy
+torch
+tensorflow
+synthesizer
